@@ -2,6 +2,9 @@
 
 Este é um projeto de loja virtual simples desenvolvido com **React** e **Vite**. Ele serve como um ponto de partida para aplicações de e-commerce, oferecendo uma estrutura básica que pode ser expandida conforme necessário.
 
+### 🔗 Hospedado na vercel
+https://react-shop-delta-bay.vercel.app/
+
 ## 🚀 Começando
 
 ### Pré-requisitos
