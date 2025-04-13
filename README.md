@@ -1,8 +1,22 @@
-# React + Vite
+# 🛍️ React Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto de loja virtual simples desenvolvido com **React** e **Vite**. Ele serve como um ponto de partida para aplicações de e-commerce, oferecendo uma estrutura básica que pode ser expandida conforme necessário.
 
-Currently, two official plugins are available:
+## 🚀 Começando
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Pré-requisitos
+
+- Node.js (versão 16 ou superior)
+- npm ou yarn
+
+### Instalação
+
+```bash
+# Clone o repositório
+git clone https://github.com/IsaiasMuanda/react-shop.git
+
+# Acesse a pasta do projeto
+cd react-shop
+
+# Instale as dependências
+npm install
